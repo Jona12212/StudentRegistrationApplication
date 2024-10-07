@@ -1,0 +1,10 @@
+C:\Users\JONALYN\source\repos\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.csproj.AssemblyReference.cache
+C:\Users\JONALYN\source\repos\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.Form1.resources
+C:\Users\JONALYN\source\repos\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.Properties.Resources.resources
+C:\Users\JONALYN\source\repos\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.csproj.GenerateResource.cache
+C:\Users\JONALYN\source\repos\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.csproj.CoreCompileInputs.cache
+C:\Users\JONALYN\source\repos\StudentRegistrationApp\StudentRegistrationApp\bin\Debug\StudentRegistrationApp.exe.config
+C:\Users\JONALYN\source\repos\StudentRegistrationApp\StudentRegistrationApp\bin\Debug\StudentRegistrationApp.exe
+C:\Users\JONALYN\source\repos\StudentRegistrationApp\StudentRegistrationApp\bin\Debug\StudentRegistrationApp.pdb
+C:\Users\JONALYN\source\repos\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.exe
+C:\Users\JONALYN\source\repos\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.pdb
